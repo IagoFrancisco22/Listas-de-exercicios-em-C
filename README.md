@@ -1,2 +1,2 @@
-# Listas-de-exercicios-em-C
+# listasDeExerciciosEmC
 Listas de exercicios da fatec em C
